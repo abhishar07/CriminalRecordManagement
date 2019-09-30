@@ -6,7 +6,8 @@ import java.sql.SQLException;
 
 public class JDBC {
 
-	public static void main(String[] args) {
+	public  void Connection()
+	{
 		Connection conn = null;
 		
 		try
